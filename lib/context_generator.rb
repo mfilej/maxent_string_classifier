@@ -1,3 +1,4 @@
+# encoding: utf-8
 module MaxentStringClassifier
   class ContextGenerator
     include Logger
